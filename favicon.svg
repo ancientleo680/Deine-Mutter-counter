@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#ff3d81"/>
+  <path d="M9 11h42v42H13L9 49z" fill="#f5f0e6" stroke="#17151a" stroke-width="3"/>
+  <text x="16" y="40" fill="#17151a" font-family="Impact,Arial Black,sans-serif" font-size="24">DM</text>
+  <path d="M48 8l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z" fill="#f5c842" stroke="#17151a" stroke-width="2"/>
+</svg>
